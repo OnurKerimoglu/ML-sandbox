@@ -3,5 +3,5 @@
 /.ipynb_checkpoints/*
 /venv/*
 /images/*
-/mlflow/mlruns/*
-/mlflow/outputs/*
+/mlflow/examples/*/mlruns/*
+/mlflow/examples/*/outputs/*
